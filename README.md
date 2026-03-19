@@ -12,7 +12,6 @@ Este proyecto simula un entorno de trabajo real de **Ciberseguridad y Prevenció
 ### 1. El Motor de Datos (Python + Pandas)
 Utiliza lógica de reglas de negocio para procesar transacciones y detectar desvíos de límites autorizados.
 - **Procesamiento ETL:** Lee de `/data`, transforma la información y genera salidas limpias.
-- 
 <img width="459" height="143" alt="image" src="https://github.com/user-attachments/assets/82c6d339-a61a-4d47-baed-fb2fcacdc4bb" />
 
 Extract (Extracción): El script buscó y leyó los datos crudos del archivo transaction_input.csv usando la librería Pandas.
