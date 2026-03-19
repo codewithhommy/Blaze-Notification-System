@@ -25,7 +25,7 @@ Para este proyecto, se implementó un sistema de notas en **Obsidian** siguiendo
 - **Análisis de Patrones:** Documentación de por qué una transacción se considera fraude (exceso de límites, comportamiento inusual).
 - **Gestión del Conocimiento:** Uso de la terminal como "mejor amiga" para ver datos crudos, garantizando que el análisis no tenga filtros que oculten errores.
 
-## 🧠 Conocimientos Aplicados
+## Conocimientos Aplicados
 - **Lógica de Reglas de Negocio:** Traducción de políticas bancarias a código ejecutable.
 - **Infraestructura como Código:** Comunicación entre lenguajes y scripts de administración.
 - **Troubleshooting Crítico:** Resolución de errores de entorno, sintaxis y permisos de kernel.
