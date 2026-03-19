@@ -1,4 +1,4 @@
-# 🔥 Blaze-Notification-System (Sentinel-AML)
+# Blaze-Notification-System (Sentinel-AML)
 
 Este proyecto simula un entorno de trabajo real de **Ciberseguridad y Prevención de Fraude** en entidades Fintech/Bancarias. Automatiza la detección de alertas y protege la integridad de la evidencia digital, utilizando una metodología de documentación profesional.
 
